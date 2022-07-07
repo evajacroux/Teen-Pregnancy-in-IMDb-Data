@@ -1,6 +1,3 @@
-library(pkgload)
-library(devtools)
-library(lodown)
 library(dplyr)
 library(readr)
 
